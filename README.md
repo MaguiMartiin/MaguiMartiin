@@ -2,9 +2,7 @@
 <h3 align="center">Soy desarrolladora web Full Stack del Bootcamp (HENRY) en Argentina</h3>
 
 <h5>Mi nombre es Magali, y me complace presentarme como una Desarrolladora Web Full Stack. Aunque carezco de experiencia directa en este ámbito, mi historial profesional y mis cualidades personales me sitúan en una posición ventajosa para abordar nuevos desafíos con entusiasmo y dedicación.
-
-A lo largo de mi trayectoria, he demostrado una destacada capacidad para adaptarme a diversas situaciones y entornos. Mi habilidad para asimilar conocimientos rápidamente y aplicarlos de manera efectiva me ha permitido prosperar en circunstancias cambiantes. Si bien mi experiencia previa abarca diferentes rubros, estoy firmemente comprometida con la transición hacia el desarrollo web Full Stack y estoy dispuesta a invertir los esfuerzos necesarios para alcanzar la excelencia en este campo.
-
+  
 Mi enfoque proactivo y mi predisposición positiva hacia el aprendizaje y la mejora continua me han permitido enfrentar con éxito desafíos previos y superar obstáculos. Estoy convencida de que estas cualidades me servirán bien en mi viaje hacia el desarrollo web Full Stack.
 
 Si bien mi camino puede ser diferente al de otros, mi determinación y mi ética de trabajo inflexible son cualidades que valoro profundamente y que aportaré a mi trabajo como desarrolladora web. Estoy comprometida con el crecimiento constante y la adquisición de nuevas habilidades, y espero con entusiasmo la oportunidad de contribuir de manera significativa en este emocionante campo.
